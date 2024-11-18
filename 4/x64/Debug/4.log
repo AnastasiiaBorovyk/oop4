@@ -1,0 +1,11 @@
+﻿  4.cpp
+  LuxuryCar.cpp
+D:\ооп 1 семестр 2 курс\4\4\LuxuryCar.h(3,9): error C1083: Cannot open include file: '': No such file or directory
+  (compiling source file 'LuxuryCar.cpp')
+  
+  order.cpp
+  SUV.cpp
+D:\ооп 1 семестр 2 курс\4\4\SUV.h(22,10): error C3668: 'SUV::displayInfo': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'SUV.cpp')
+  
+  Generating Code...
